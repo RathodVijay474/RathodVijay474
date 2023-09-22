@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RathodVijay474
-- 👀 I’m interested in <b> Machine Learning
+- 👀 I’m interested in <b> Machine Learning <b>
 - 🌱 I’m currently learning  DSA
 - 💞️ I’m looking to collaborate on MNC company's
 - 📫 How to reach me
