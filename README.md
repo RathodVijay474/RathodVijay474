@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RathodVijay474
+- 👋 Hi, I’m @ Rathod Vijay
 - 👀 I’m interested in <b> Machine Learning <b>
 - 🌱 I’m currently learning  DSA
 - 💞️ I’m looking to collaborate on MNC company's
